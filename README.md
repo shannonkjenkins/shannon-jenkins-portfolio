@@ -1,7 +1,7 @@
 # shannon-jenkins-portfolio
 Business Analytics &amp; Information Systems and Marketing student at the University of Iowa.
 
-Skills
+**Skills**
 
 Data Analysis & Visualization
 Excel & Microsoft Office
@@ -9,7 +9,7 @@ Marketing & Social Media
 Canva & Content Creation
 AI Prompt Engineering
 
-Experience
+**Experience**
 
 Iowa Sports Foundation – Marketing Intern
 
@@ -21,6 +21,6 @@ Vent Now App – Social Media Marketing
 
 Fareway Stores – Cashier & E-Commerce Associate
 
-Projects
+**Projects**
 
 More projects coming soon!

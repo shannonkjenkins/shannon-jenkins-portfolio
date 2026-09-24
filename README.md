@@ -3,10 +3,10 @@ Business Analytics &amp; Information Systems and Marketing student at the Univer
 
 **Skills**
 
-Data Analysis & Visualization
-Excel & Microsoft Office
-Marketing & Social Media
-Canva & Content Creation
+Data Analysis & Visualization,
+Excel & Microsoft Office,
+Marketing & Social Media,
+Canva & Content Creation,
 AI Prompt Engineering
 
 **Experience**

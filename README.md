@@ -12,9 +12,13 @@ AI Prompt Engineering
 Experience
 
 Iowa Sports Foundation – Marketing Intern
+
 Rae Lane Permanent Jewelry – Social Media Marketing
+
 Studley AI App – Social Media Marketing
+
 Vent Now App – Social Media Marketing
+
 Fareway Stores – Cashier & E-Commerce Associate
 
 Projects

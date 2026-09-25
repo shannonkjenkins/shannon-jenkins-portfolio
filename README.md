@@ -1,4 +1,4 @@
-[# Shannon Jenkins – Professional Portfolio
+# Shannon Jenkins – Professional Portfolio
 
 Welcome to my professional portfolio! I am a Business Analytics & Information Systems and Marketing student at the University of Iowa's Tippie College of Business.
 
@@ -81,4 +81,3 @@ Expected December 2028
 ## Contact
 
 LinkedIn: www.linkedin.com/in/shannon-jenkins-80a736368
-]
